@@ -54,6 +54,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/chgara/githubaction/pull/1) in [chgara/githubaction](https://github.com/chgara/githubaction)
+2. 💪 Opened PR [#1](https://github.com/chgara/githubaction/pull/1) in [chgara/githubaction](https://github.com/chgara/githubaction)
+3. 🎉 Merged PR [#2](https://github.com/chgara/hello-github-actions/pull/2) in [chgara/hello-github-actions](https://github.com/chgara/hello-github-actions)
+4. 💪 Opened PR [#2](https://github.com/chgara/hello-github-actions/pull/2) in [chgara/hello-github-actions](https://github.com/chgara/hello-github-actions)
 <!--END_SECTION:activity-->
 
 </details>
