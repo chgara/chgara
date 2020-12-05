@@ -55,10 +55,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2344](https://github.com/conventional-changelog/commitlint/issues/2344) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
-2. ❗️ Opened issue [#50](https://github.com/wfxr/minimap.vim/issues/50) in [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim)
-3. 🎉 Merged PR [#1](https://github.com/chgara/githubaction/pull/1) in [chgara/githubaction](https://github.com/chgara/githubaction)
-4. 💪 Opened PR [#1](https://github.com/chgara/githubaction/pull/1) in [chgara/githubaction](https://github.com/chgara/githubaction)
+1. ❗️ Closed issue [#2344](https://github.com/conventional-changelog/commitlint/issues/2344) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
+2. 🗣 Commented on [#2344](https://github.com/conventional-changelog/commitlint/issues/2344) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
+3. ❗️ Opened issue [#2344](https://github.com/conventional-changelog/commitlint/issues/2344) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
+4. ❗️ Opened issue [#50](https://github.com/wfxr/minimap.vim/issues/50) in [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim)
 <!--END_SECTION:activity-->
 
 </details>
