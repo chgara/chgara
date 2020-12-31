@@ -55,10 +55,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/chgara/contacts-app/pull/2) in [chgara/contacts-app](https://github.com/chgara/contacts-app)
-2. 🎉 Merged PR [#1](https://github.com/chgara/contacts-app/pull/1) in [chgara/contacts-app](https://github.com/chgara/contacts-app)
-3. ❗️ Closed issue [#2344](https://github.com/conventional-changelog/commitlint/issues/2344) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
-4. 🗣 Commented on [#2344](https://github.com/conventional-changelog/commitlint/issues/2344) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
+1. 🗣 Commented on [#18489](https://github.com/vercel/next.js/issues/18489) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 🎉 Merged PR [#2](https://github.com/chgara/contacts-app/pull/2) in [chgara/contacts-app](https://github.com/chgara/contacts-app)
+3. 🎉 Merged PR [#1](https://github.com/chgara/contacts-app/pull/1) in [chgara/contacts-app](https://github.com/chgara/contacts-app)
+4. ❗️ Closed issue [#2344](https://github.com/conventional-changelog/commitlint/issues/2344) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
 <!--END_SECTION:activity-->
 
 </details>
