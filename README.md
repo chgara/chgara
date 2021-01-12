@@ -55,10 +55,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#247](https://github.com/neoclide/coc-tsserver/issues/247) in [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver)
-2. 🗣 Commented on [#18489](https://github.com/vercel/next.js/issues/18489) in [vercel/next.js](https://github.com/vercel/next.js)
-3. 🎉 Merged PR [#2](https://github.com/chgara/contacts-app/pull/2) in [chgara/contacts-app](https://github.com/chgara/contacts-app)
-4. 🎉 Merged PR [#1](https://github.com/chgara/contacts-app/pull/1) in [chgara/contacts-app](https://github.com/chgara/contacts-app)
+1. 💪 Opened PR [#2](https://github.com/vslinko/deno-readline/pull/2) in [vslinko/deno-readline](https://github.com/vslinko/deno-readline)
+2. ❗️ Opened issue [#1](https://github.com/vslinko/deno-readline/issues/1) in [vslinko/deno-readline](https://github.com/vslinko/deno-readline)
+3. ❗️ Opened issue [#247](https://github.com/neoclide/coc-tsserver/issues/247) in [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver)
+4. 🗣 Commented on [#18489](https://github.com/vercel/next.js/issues/18489) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
 
 </details>
