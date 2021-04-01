@@ -5,6 +5,7 @@
 ## I'm a Youg Web developer and student!!
 
 - 🔭 I just launched my first big proyect: [TodoList RestApi and PWA][bigProyect]!
+- 🤖 I'm learning machine learning on my own [my repo where I post the pdfs, examples...][ML]
 - 🌱 I’m currently learning algorithms and data structures 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects and learn more
@@ -74,3 +75,4 @@
 [bigProyect]: https://chgara-todo-client.vercel.app
 [twitter]: https://twitter.com/chema_garabito
 [linkedin]: https://linkedin.com/in/chgarabito
+[ML]: https://github.com/chgara/machineLearningLearn
