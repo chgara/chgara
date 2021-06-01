@@ -4,7 +4,8 @@
 
 ## I'm a Youg Web developer and student!!
 
-- 🔭 I just launched my first big proyect: [TodoList RestApi and PWA][bigProyect]!
+- 🔭 I just launched my first big proyect: is a rest api and a react client for an online [TodoList RestApi and PWA][bigProyect] and the
+     code of [the rest api][restapi] and [react-client][react]!
 - 🤖 I'm learning machine learning on my own [my repo where I post the pdfs, examples...][ML]
 - 🌱 I’m currently learning algorithms and data structures 🤣
 - 👯 I’m looking to collaborate with other developers
@@ -76,3 +77,5 @@
 [twitter]: https://twitter.com/chema_garabito
 [linkedin]: https://linkedin.com/in/chgarabito
 [ML]: https://github.com/chgara/machineLearningLearn
+[restapi]: https://github.com/chgara/chgara-TODO-RestApi
+[react]: https://github.com/chgara/chgara-TODO-Client
