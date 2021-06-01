@@ -57,10 +57,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/vslinko/deno-readline/pull/2) in [vslinko/deno-readline](https://github.com/vslinko/deno-readline)
-2. ❗️ Opened issue [#1](https://github.com/vslinko/deno-readline/issues/1) in [vslinko/deno-readline](https://github.com/vslinko/deno-readline)
-3. ❗️ Opened issue [#247](https://github.com/neoclide/coc-tsserver/issues/247) in [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver)
-4. 🗣 Commented on [#18489](https://github.com/vercel/next.js/issues/18489) in [vercel/next.js](https://github.com/vercel/next.js)
+1. ❗️ Opened issue [#14658](https://github.com/neovim/neovim/issues/14658) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🗣 Commented on [#591](https://github.com/rocm-arch/rocm-arch/issues/591) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+3. 🗣 Commented on [#591](https://github.com/rocm-arch/rocm-arch/issues/591) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+4. ❗️ Opened issue [#591](https://github.com/rocm-arch/rocm-arch/issues/591) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
 <!--END_SECTION:activity-->
 
 </details>
