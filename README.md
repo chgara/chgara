@@ -19,38 +19,37 @@
 
 <br />
 
-### Languages and Tools:
+### Languages:
 
-[<img align="left" alt="Nvim" title="Neovim" height="26px" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png" />][linkedin]
 [<img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
 [<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
 [<img align="left" alt="Sass" title="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][linkedin]
 [<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
 [<img align="left" alt="React" title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][linkedin]
 [<img align="left" alt="Nextjs" title="Nextjs" width="26px" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" />][linkedin]
-[<img align="left" alt="Test e2e Cypress" title="Nextjs" height="26px" src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png" />][linkedin]
+[<img align="left" alt="Test e2e Cypress" title="Test e2e Cypress" height="26px" src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png" />][linkedin]
 [<img align="left" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][linkedin]
 [<img align="left" alt="Typescript" title="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][linkedin]
 [<img align="left" alt="Deno" title="Deno" width="26px" src="https://github.com/denoland/deno/raw/main/docs/images/deno3.png" />][linkedin]
 [<img align="left" alt="SQL" title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][linkedin]
 [<img align="left" alt="MySQL" title="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][linkedin]
-[<img align="left" alt="Git" title="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][linkedin]
-[<img align="left" alt="GitHub" title="Github" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />][linkedin]
 [<img align="left" alt="Python" title="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true" />][linkedin]
-[<img align="left" alt="Numpy" title="Numpy" width="60px" src="https://github.com/numpy/numpy/raw/main/branding/logo/primary/numpylogo.svg" />][linkedin]
+
 
 <br />
 <br />
 
 ---
 
+### Tools:
+[<img align="left" alt="Nvim" title="Neovim" height="26px" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png" />][linkedin]
+[<img align="left" alt="GitHub" title="Github" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />][linkedin]
+[<img align="left" alt="Git" title="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][linkedin]
+[<img align="left" alt="Numpy"  title="Numpy" height="26px" src="https://github.com/numpy/numpy/raw/main/branding/logo/primary/numpylogo.svg" />][linkedin]
+[<img align="left" alt="Yarn" title="Yarn" height="26px" src="https://github.com/yarnpkg/assets/raw/master/yarn-kitten-full.png?raw=true" />][linkedin]
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
+<br />
+<br />
 
 ---
 
@@ -68,6 +67,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chgara&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Chgara's Github Stats">
 </details>
 
 <!--[website]: https://codeSTACKr.com-->
