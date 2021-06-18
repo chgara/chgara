@@ -58,9 +58,9 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#26227](https://github.com/vercel/next.js/issues/26227) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 🗣 Commented on [#26227](https://github.com/vercel/next.js/issues/26227) in [vercel/next.js](https://github.com/vercel/next.js)
-3. ❗️ Opened issue [#14658](https://github.com/neovim/neovim/issues/14658) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 🗣 Commented on [#591](https://github.com/rocm-arch/rocm-arch/issues/591) in [rocm-arch/rocm-arch](https://github.com/rocm-arch/rocm-arch)
+2. ❗️ Closed issue [#26227](https://github.com/vercel/next.js/issues/26227) in [vercel/next.js](https://github.com/vercel/next.js)
+3. 🗣 Commented on [#26227](https://github.com/vercel/next.js/issues/26227) in [vercel/next.js](https://github.com/vercel/next.js)
+4. 🗣 Commented on [#26227](https://github.com/vercel/next.js/issues/26227) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
 
 </details>
