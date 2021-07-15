@@ -4,6 +4,7 @@
 
 ## I'm a Youg Web developer and student!!
 
+- 📱 I’m currently learning react native 
 - 🛠️ Actually I am actually building the fundacion GGG website on nextjs using typescript, sass,... at this [website][fundacionggg].
 - 🔭 I just launched my first big proyect(beta): is a rest api and a react client for an online [TodoList RestApi and PWA][bigProyect] and the
      code of [the rest api][restapi] and [react-client][react]!
@@ -27,6 +28,7 @@
 [<img align="left" alt="Sass" title="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][linkedin]
 [<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
 [<img align="left" alt="React" title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][linkedin]
+[<img align="left" alt="React Native" title="React Native" width="50px" src="https://s3-eu-west-1.amazonaws.com/xavitristancho/react-native.png" />][linkedin]
 [<img align="left" alt="Nextjs" title="Nextjs" width="26px" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" />][linkedin]
 [<img align="left" alt="Test e2e Cypress" title="Test e2e Cypress" height="26px" src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png" />][linkedin]
 [<img align="left" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][linkedin]
