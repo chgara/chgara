@@ -4,10 +4,11 @@
 
 ## I'm a Youg Web developer and student!!
 
-- 🔭 I just launched my first big proyect: is a rest api and a react client for an online [TodoList RestApi and PWA][bigProyect] and the
+- 🛠️ Actually I am actually building the fundacion GGG website on nextjs using typescript, sass,... at this [website][fundacionggg].
+- 🔭 I just launched my first big proyect(beta): is a rest api and a react client for an online [TodoList RestApi and PWA][bigProyect] and the
      code of [the rest api][restapi] and [react-client][react]!
 - 🤖 I'm learning machine learning on my own [my repo where I post the pdfs, examples...][ML]
-- 🌱 I’m currently learning algorithms and data structures 🤣
+- 🌱 I’m currently learning algorithms and datastructures, the [repo][datastructures] 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects and learn more
 - ⚡ Fun fact: I love to play ukelele and read
@@ -78,3 +79,5 @@
 [restapi]: https://github.com/chgara/chgara-TODO-RestApi
 [react]: https://github.com/chgara/chgara-TODO-Client
 [githubuser]: https://github.com/chgara
+[fundacionggg]: https://fundacionggg.com
+[datastructures]: https://github.com/chgara/datastructures
