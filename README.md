@@ -19,6 +19,7 @@
 
 [<img align="left" alt="github.com/chgara" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />][githubuser]
 [<img align="left" alt="chema_garabito | Twitter" width="30px" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" />][twitter]
+[<img align="left" alt="chema_garabito | Twitter" width="30px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />][linkedin]
 
 <br />
 
@@ -77,7 +78,7 @@
 <!--[website]: https://codeSTACKr.com-->
 [bigProyect]: https://chgara-todo-client.vercel.app
 [twitter]: https://twitter.com/chema_garabito
-[linkedin]: https://twitter.com/chema_garabito
+[linkedin]: https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADa-s%C3%A1nchez-garabito-b13593219/
 [ML]: https://github.com/chgara/machineLearningLearn
 [restapi]: https://github.com/chgara/chgara-TODO-RestApi
 [react]: https://github.com/chgara/chgara-TODO-Client
