@@ -8,6 +8,7 @@
 - 🛠️ Actually I am actually building the fundacion GGG website on nextjs using typescript, sass,... at this [website][fundacionggg].
 - 🔭 I just launched my first big proyect(beta): is a rest api and a react client for an online [TodoList RestApi and PWA][bigProyect] and the
      code of [the rest api][restapi] and [react-client][react]!
+- I have build an online chat using sockets and javascript and this is the [source code and demo web](https://github.com/chgara/Chat-funcional-server)
 - 🤖 I'm learning machine learning on my own [my repo where I post the pdfs, examples...][ML]
 - 🌱 I’m currently learning algorithms and datastructures, the [repo][datastructures] 
 - 👯 I’m looking to collaborate with other developers
