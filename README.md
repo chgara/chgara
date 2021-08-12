@@ -23,8 +23,10 @@
 
 <br />
 
-### Languages:
+### Languages/Skills:
 
+[<img align="left" alt="Linux" title="Linux" width="56px" src="https://img2.freepng.es/20180330/oqw/kisspng-linux-unix-operating-systems-command-line-interfac-linux-5abe15b5486d08.3038287615224068372967.jpg" />][linkedin]
+[<img align="left" alt="CI/CD" title="CI/CD" width="26px" src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" />][linkedin]
 [<img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
 [<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
 [<img align="left" alt="Sass" title="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][linkedin]
@@ -35,7 +37,7 @@
 [<img align="left" alt="Test e2e Cypress" title="Test e2e Cypress" height="26px" src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png" />][linkedin]
 [<img align="left" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][linkedin]
 [<img align="left" alt="Typescript" title="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][linkedin]
-[<img align="left" alt="Deno" title="Deno" width="26px" src="https://github.com/denoland/deno/raw/main/docs/images/deno3.png" />][linkedin]
+[<img align="left" alt="Deno" title="Deno" width="26px" src="https://raw.githubusercontent.com/denoland/manual/main/images/deno3.png" />][linkedin]
 [<img align="left" alt="SQL" title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][linkedin]
 [<img align="left" alt="MySQL" title="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][linkedin]
 [<img align="left" alt="Python" title="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true" />][linkedin]
