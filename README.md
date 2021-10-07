@@ -64,7 +64,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26227](https://github.com/vercel/next.js/issues/26227) in [vercel/next.js](https://github.com/vercel/next.js)
+1. 💪 Opened PR [#76](https://github.com/fharookshaik/fibonacci-series/pull/76) in [fharookshaik/fibonacci-series](https://github.com/fharookshaik/fibonacci-series)
 2. ❗️ Closed issue [#26227](https://github.com/vercel/next.js/issues/26227) in [vercel/next.js](https://github.com/vercel/next.js)
 3. 🗣 Commented on [#26227](https://github.com/vercel/next.js/issues/26227) in [vercel/next.js](https://github.com/vercel/next.js)
 4. 🗣 Commented on [#26227](https://github.com/vercel/next.js/issues/26227) in [vercel/next.js](https://github.com/vercel/next.js)
