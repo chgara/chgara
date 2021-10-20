@@ -72,9 +72,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/chgara/chgara/pull/1) in [chgara/chgara](https://github.com/chgara/chgara)
-2. 💪 Opened PR [#76](https://github.com/fharookshaik/fibonacci-series/pull/76) in [fharookshaik/fibonacci-series](https://github.com/fharookshaik/fibonacci-series)
-3. 🗣 Commented on [#26227](https://github.com/vercel/next.js/issues/26227) in [vercel/next.js](https://github.com/vercel/next.js)
+1. 💪 Opened PR [#2](https://github.com/chgara/chgara/pull/2) in [chgara/chgara](https://github.com/chgara/chgara)
+2. 💪 Opened PR [#1](https://github.com/chgara/chgara/pull/1) in [chgara/chgara](https://github.com/chgara/chgara)
+3. 💪 Opened PR [#76](https://github.com/fharookshaik/fibonacci-series/pull/76) in [fharookshaik/fibonacci-series](https://github.com/fharookshaik/fibonacci-series)
 4. 🗣 Commented on [#26227](https://github.com/vercel/next.js/issues/26227) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
 
