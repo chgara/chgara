@@ -1,70 +1,18 @@
 ### Hi there, I'm Chgara - a young full stack developer 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/chema_garabito?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=chema_garabito)
+[![Header](https://lh3.googleusercontent.com/Pe2jrzwdV4_NK5HuYkBMwecG5lIcINKxzZeLSI5GJNthueHle9hpmpLSpUgFhAxCXZNE2Q5dBkNFh5H1-rjb6QqiBh3nLD4lKqQlW-187W75Y05NzlknmZhONu_EL2KkRrt0kwcnua9kA656DnXmKmDpUkfS26f5zbHXOHM8SmK-50b5vA0Zw3k-MOIb5HMLIeKJxpKCKM3QLRBZnw-EBvPCpMG3tJJ3XqBrm4Tf1kvJSw80mw_MsjB5NO7-A_n1VGWTCOSoC-f0NJw4YRvdrSa6l83WtXhXuyp_xAyLSPAqEIXW0szMErt27zRmf97kexfW-NzDwBxVAzYejJm0z3veJn759uDhnd4R2XgQDxB7EFsCFCp_RqDuWlDM0smHQtS3zQhuEF93deU7D4MZnAM6WkCYi2L5GFW_CRI5lDUrtmSl1boOCbuatdotcHedPEOx2IEE8y6kZLu7_lQoSit1ty0XQ8wX5wuq9SfyfFYbBrklHOgjnSTBQ4yTZjYGsfhZPYmKd50FA_Ku37T8Rv1rTvRDHB9Fuj3O6vQt89iQZqSzraeX7RLsZlxy06fO5XsJWy4REPFilXp87yV1qlyo1bKnxfqWaaJSVmp_kbOHvqK5egKQvKgoUSgHK7II0zRDOSQ-A_vQ9kaoUHYnEP5AwtIju1saoOn3Duilevaxva_9sUZL-vIfFqcLtbnW8tMKXT7shFSR5jvSDqm98sdt=w1231-h923-no?authuser=0 "Header")](https://www.creative-tim.com/)
 
-## I'm a Youg Web developer and student!!
+## About me
+
+I'm a self taught developer interested in many areas of the Cs like IA, Web, Mobile... Now I am studyin 1st of Datascience and Artificial Inteligence in th polytechnic university of Madrid. 
 
 - 📱 I’m currently developing an [Instagram clone][instaClone] 
 - 🛠️ Actually I am actually building the fundacion GGG website on nextjs using typescript, sass,... at this [website][fundacionggg].
-- 🔭 I just launched my first big proyect(beta): is a rest api and a react client for an online [TodoList RestApi and PWA][bigProyect] and the
-     code of [the rest api][restapi] and [react-client][react]!
-- I have build an online chat using sockets and javascript and this is the [source code and demo web](https://github.com/chgara/Chat-funcional-server)
 - 🤖 I'm learning machine learning on my own [my repo where I post the pdfs, examples...][ML]
 - 🌱 I’m currently learning algorithms and datastructures, the [repo][datastructures] 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects and learn more
 - ⚡ Fun fact: I love to play ukelele and read
-
-### Connect with me:
-
-[<img align="left" alt="github.com/chgara" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />][githubuser]
-[<img align="left" alt="chema_garabito | Twitter" width="30px" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" />][twitter]
-[<img align="left" alt="chema_garabito | Twitter" width="30px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />][linkedin]
-
-<br />
-
-### Languages/Skills:
-
-<p align="center">
-     <p width="100%">
-          <img align="left" alt="Linux" title="Linux" width="56px" src="https://img2.freepng.es/20180330/oqw/kisspng-linux-unix-operating-systems-command-line-interfac-linux-5abe15b5486d08.3038287615224068372967.jpg" />
-          <img align="left" alt="CI/CD" title="CI/CD" width="26px" src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" />
-          <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-          <img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-          <img align="left" alt="Sass" title="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-          <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-          <img align="left" alt="React" title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-          <img align="left" alt="React Native" title="React Native" width="50px" src="https://s3-eu-west-1.amazonaws.com/xavitristancho/react-native.png" />
-     </p>
-     <p width="100%">
-          <img align="left" alt="React Native Expo" title="React Native" width="35px" src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" />
-          <img align="left" alt="Nextjs" title="Nextjs" width="26px" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" />
-          <img align="left" alt="Test e2e Cypress" title="Test e2e Cypress" height="26px" src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png" />
-          <img align="left" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-          <img align="left" alt="Typescript" title="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-          <img align="left" alt="Deno" title="Deno" width="26px" src="https://raw.githubusercontent.com/denoland/manual/main/images/deno3.png" />
-          <img align="left" alt="SQL" title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-          <img align="left" alt="MySQL" title="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-          <img align="left" alt="Python" title="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true" />
-     </p>
-     
-</p>
-
-
-<br />
-<br />
-
----
-
-### Tools:
-[<img align="left" alt="Nvim" title="Neovim" height="26px" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png" />][linkedin]
-[<img align="left" alt="GitHub" title="Github" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />][linkedin]
-[<img align="left" alt="Git" title="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][linkedin]
-[<img align="left" alt="Numpy"  title="Numpy" height="26px" src="https://github.com/numpy/numpy/raw/main/branding/logo/primary/numpylogo.svg" />][linkedin]
-[<img align="left" alt="Yarn" title="Yarn" height="26px" src="https://github.com/yarnpkg/assets/raw/master/yarn-kitten-full.png?raw=true" />][linkedin]
-
-<br />
-<br />
 
 ---
 
@@ -72,9 +20,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/chgara/chgara/pull/2) in [chgara/chgara](https://github.com/chgara/chgara)
-2. 💪 Opened PR [#1](https://github.com/chgara/chgara/pull/1) in [chgara/chgara](https://github.com/chgara/chgara)
-3. 💪 Opened PR [#76](https://github.com/fharookshaik/fibonacci-series/pull/76) in [fharookshaik/fibonacci-series](https://github.com/fharookshaik/fibonacci-series)
+1. 💪 Opened PR [#76](https://github.com/fharookshaik/fibonacci-series/pull/76) in [fharookshaik/fibonacci-series](https://github.com/fharookshaik/fibonacci-series)
+2. ❗️ Closed issue [#26227](https://github.com/vercel/next.js/issues/26227) in [vercel/next.js](https://github.com/vercel/next.js)
+3. 🗣 Commented on [#26227](https://github.com/vercel/next.js/issues/26227) in [vercel/next.js](https://github.com/vercel/next.js)
 4. 🗣 Commented on [#26227](https://github.com/vercel/next.js/issues/26227) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
 
@@ -85,9 +33,120 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=chgara&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Chgara's Github Stats">
 </details>
 
+---
+
+## Technologies that I work with
+<p align="center">Modern problems require modern solutions an innovative tecnologies that can scale and update easily with the time.</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/cv6R6kR/nextjs.png" title="NextJS" width="67.5px" />
+  <img src="https://i.ibb.co/pvk5HDf/rn.png" title="React y React Native" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/bootstrap.jpg" title="Bootstrap" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sass.jpg" title="sass" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/figma.jpg" title="Figma" width="67.5px" />
+  <img src="https://i.ibb.co/cQFHVC4/js.png" title="JavaScript" width="67.5px" />   
+  <img src="https://i.ibb.co/MnbFjDy/css.png" title="CSS3" width="67.5px" />    
+  <img src="https://i.ibb.co/2Sh7z7f/html.png" title="HTML5" width="67.5px" />  
+  <img src="https://i.ibb.co/yR16d13/ts.png" title="TypeScript" width="67.5px" />    
+  <img src="https://i.ibb.co/44nccJm/expo.png" title="Expo" width="67.5px" />    
+  <img src="https://i.ibb.co/RPFYwDC/cypress.png" title="CypressJS" width="67.5px" />    
+  <img src="https://i.ibb.co/rH74K6Q/ndoe.png" title="Nodejs" width="67.5px" />    
+  <img src="https://i.ibb.co/yfSrDbb/deno.png" title="Deno" width="67.5px" />  
+  <img src="https://i.ibb.co/9YFgkc4/mysql.png" title="MYSQL" width="67.5px" />
+  <img src="https://i.ibb.co/T2FRG7z/python.png" title="Python" width="67.5px" />
+  <img src="https://i.ibb.co/tQqPp9R/linux.png" title="Linux" width="67.5px" />
+  <img src="https://i.ibb.co/c2rTJZ5/ci.png" title="CI/CD" width="67.5px" />
+  <img src="https://i.ibb.co/QQ2F1tW/git.png" title="Git" width="67.5px" />
+  <img src="https://i.ibb.co/HqFpgVW/github.png" title="Github" width="67.5px" />
+  <img src="https://i.ibb.co/gvnTq5X/yarn.png" title="Yarn" width="67.5px" />
+  <img src="https://i.ibb.co/TkrTRm6/numpy.png" title="Numpy" width="67.5px" />
+  <img src="https://i.ibb.co/9yrxbgx/vim.png" title="Vim" width="67.5px" />
+</p>
+
+<br />
+<br />
+
+## Expertise
+
+- Create Webs, apps and webapps
+  -  Nodays webapps are not only important for companies like facebook or netflix, a little commerce with a great page, ecommerce... can be distinguished by far. I only use great and innovative technologies that can scale with the time and will remain in the next years.
+- Share Freebies
+  -  Everything that I used to create the products can be downloaded for free under MIT License. People have already trusted and used them in thousands of sites.
+- Implement powers
+  -  As a Full Stack developer I can create a product from zero, the backend, the frontend, themobile app, using the best technologies in the market.
+  
+<br />
+
+## My projects
+
+  InstaClone   |    TODO webapp    |     TODO REST Api    | Online Global Chat
+-------------- | ----------------- | -------------------- | ---------------------
+📖 [Repo](https://github.com/chgara/instaClone) | 📖 [Repo](https://github.com/chgara/chgara-TODO-Client) | 📖 [Repo](https://github.com/chgara/chgara-TODO-RestApi) | 📖 [Repo](https://github.com/chgara/Chat-funcional-server)
+❌ [Live Demo](https://github.com/chgara/instaClone) | ✅ [Live Demo](https://chgara-todo-client.vercel.app/) | ✅ [Live Demo](https://chgara-todolist-server.herokuapp.com/api) | ✅ [Live Demo](https://try-chat.herokuapp.com/)
+![InstaClone](https://camo.githubusercontent.com/1de475cb5c49f0c8371fd6d768ba7fdb6c999fa2c818b88770c27068f00f7299/68747470733a2f2f692e6962622e636f2f475473776d66682f70686f6e652e706e67) | ![TODO webapp](https://camo.githubusercontent.com/f641cbf2ce655f3642de92406b3ba05352a5a88074a0dd9e7fb9ba83af1f3af7/68747470733a2f2f692e6962622e636f2f547133627471462f746f646f2e706e67) | ![TODO REST Api](https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2019/08/12/restAPI-2-1176x630.jpg)| ![Online Global Chat](https://camo.githubusercontent.com/415c2d8c6c823cca43c6cb0db4c04fa5ebe0fb8d0ee9ac1043c928dfd7f11f43/68747470733a2f2f692e6962622e636f2f71644c437646772f677265656e2d436861742e706e67)
+
+[View All Proyects](https://github.com/chgara?tab=repositories)
+
+<br />
+
+## My work
+
+<!---
+**Text courses:**
+- [How to quickstart and launch your website using Jekyll?](https://www.creative-tim.com/blog/webdesign/quickstart-launch-website-using-jekyll)
+- [How to create Scrolling Transformations for your React App?](https://www.creative-tim.com/blog/webdesign/create-scrolling-transformations-react-app)
+- [How to create a single-page application using React?](https://www.creative-tim.com/blog/react/create-single-page-application-using-react)
+-->
+
+**Work proyects:**
+
+[![Fundación Godofredo Garabito y Gregorio](https://i.ibb.co/FhMjtsS/fundacionggg-2.jpg)](https://fundacionggg.com/ "React web page")
+<p align="center">A web page that loads as fasts as light, made in React, Typescript, Scss, NextJS...</p>
 
 
-<!--[website]: https://codeSTACKr.com-->
+<!---
+when having blogs
+## Our latest posts
+
+1. **[🔥 Creative Tim Courses](https://www.creative-tim.com/blog/creative-tim/new-learning-resources-web-designers/)** <br> *New Learning Platform for Web Designers & Devs*
+2. **[😎 Git Tutorial](https://www.creative-tim.com/blog/educational-tech/git-tutorial-fix-common-mistakes/)** <br> *How to Fix 18 Common Mistakes*
+3. **[🙏 Docker and Django](https://www.creative-tim.com/blog/django-template/docker-and-django-how-to-start-fast/)** <br> *How to start fast*
+4. **[⭐️ Technology](https://www.creative-tim.com/blog/ux/importance-user-experience-expert/)** <br> *The Importance of a User Experience Expert in Every Company*
+5. **[💣 Shopify Templates](https://www.creative-tim.com/blog/shopify-themes/best-ecommerce-shopify-templates/)** <br> *10+ Best E-commerce Shopify Templates*
+</p>
+-->
+<!---
+when having blogs
+
+## Useful Links
+
+- [Premium Products](https://www.creative-tim.com/templates/premium)
+- [Freebies](https://www.creative-tim.com/templates/free) from Creative Tim
+- [More products](https://www.creative-tim.com/templates) from Creative Tim
+- [Bundles](https://www.creative-tim.com/bundles)
+- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
+- [Material Design](https://www.creative-tim.com/design-system/material)
+- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
+- [Get Discount](https://www.creative-tim.com/coupon)
+
+-->
+
+## Contact with me
+
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />][githubuser] [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] [<img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
+
+<p align="center"> © 2021 Chgara, all rights reserved.</p>
+<!---
+when have a web page
+<p align="center">
+https://www.creative-tim.com
+</p>
+-->
+
+ 
+ 
+ <!--[website]: https://codeSTACKr.com-->
+[mail]: emailto:chemasanchezgarabito@gmail.com
 [bigProyect]: https://chgara-todo-client.vercel.app
 [twitter]: https://twitter.com/chema_garabito
 [linkedin]: https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADa-s%C3%A1nchez-garabito-b13593219/
