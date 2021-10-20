@@ -1,4 +1,4 @@
-### Hi there, I'm Chgara - a young web developer 👋
+### Hi there, I'm Chgara - a young full stack developer 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/chema_garabito?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=chema_garabito)
 
@@ -25,23 +25,30 @@
 
 ### Languages/Skills:
 
-[<img align="left" alt="Linux" title="Linux" width="56px" src="https://img2.freepng.es/20180330/oqw/kisspng-linux-unix-operating-systems-command-line-interfac-linux-5abe15b5486d08.3038287615224068372967.jpg" />][linkedin]
-[<img align="left" alt="CI/CD" title="CI/CD" width="26px" src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" />][linkedin]
-[<img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
-[<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
-[<img align="left" alt="Sass" title="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][linkedin]
-[<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
-[<img align="left" alt="React" title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][linkedin]
-[<img align="left" alt="React Native" title="React Native" width="50px" src="https://s3-eu-west-1.amazonaws.com/xavitristancho/react-native.png" />][linkedin]
-[<img align="left" alt="React Native Expo" title="React Native" width="35px" src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" />][linkedin]
-[<img align="left" alt="Nextjs" title="Nextjs" width="26px" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" />][linkedin]
-[<img align="left" alt="Test e2e Cypress" title="Test e2e Cypress" height="26px" src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png" />][linkedin]
-[<img align="left" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][linkedin]
-[<img align="left" alt="Typescript" title="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][linkedin]
-[<img align="left" alt="Deno" title="Deno" width="26px" src="https://raw.githubusercontent.com/denoland/manual/main/images/deno3.png" />][linkedin]
-[<img align="left" alt="SQL" title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][linkedin]
-[<img align="left" alt="MySQL" title="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][linkedin]
-[<img align="left" alt="Python" title="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true" />][linkedin]
+<p align="center">
+     <p width="100%">
+          <img align="left" alt="Linux" title="Linux" width="56px" src="https://img2.freepng.es/20180330/oqw/kisspng-linux-unix-operating-systems-command-line-interfac-linux-5abe15b5486d08.3038287615224068372967.jpg" />
+          <img align="left" alt="CI/CD" title="CI/CD" width="26px" src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" />
+          <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+          <img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+          <img align="left" alt="Sass" title="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+          <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+          <img align="left" alt="React" title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+          <img align="left" alt="React Native" title="React Native" width="50px" src="https://s3-eu-west-1.amazonaws.com/xavitristancho/react-native.png" />
+     </p>
+     <p width="100%">
+          <img align="left" alt="React Native Expo" title="React Native" width="35px" src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" />
+          <img align="left" alt="Nextjs" title="Nextjs" width="26px" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" />
+          <img align="left" alt="Test e2e Cypress" title="Test e2e Cypress" height="26px" src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png" />
+          <img align="left" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+          <img align="left" alt="Typescript" title="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+          <img align="left" alt="Deno" title="Deno" width="26px" src="https://raw.githubusercontent.com/denoland/manual/main/images/deno3.png" />
+          <img align="left" alt="SQL" title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+          <img align="left" alt="MySQL" title="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+          <img align="left" alt="Python" title="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true" />
+     </p>
+     
+</p>
 
 
 <br />
@@ -77,6 +84,8 @@
   <summary>:zap: GitHub Stats</summary>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=chgara&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Chgara's Github Stats">
 </details>
+
+
 
 <!--[website]: https://codeSTACKr.com-->
 [bigProyect]: https://chgara-todo-client.vercel.app
