@@ -36,7 +36,7 @@ I'm a self taught developer interested in many areas of the Cs like IA, Web, Mob
 ---
 
 ## Technologies that I work with
-<p align="center">Modern problems require modern solutions an innovative tecnologies that can scale and update easily with the time.</p>
+<p align="center">Modern problems require modern solutions an innovative tecnologies that can scale and be updated easily with the time.</p>
 
 <p align="center">
   <img src="https://i.ibb.co/cv6R6kR/nextjs.png" title="NextJS" width="67.5px" />
