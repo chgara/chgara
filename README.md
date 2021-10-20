@@ -1,27 +1,37 @@
 ### Hi there, I'm Chgara - a young full stack developer 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/chema_garabito?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=chema_garabito)
+[![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
 
-## I'm a Youg Web developer and student!!
+## Me
+
+Creating your web design from scratch with dedicated designers can be very expensive. Using our solutions you don't have to worry about design. Save time and money by focusing on the business model.
 
 - 📱 I’m currently developing an [Instagram clone][instaClone] 
 - 🛠️ Actually I am actually building the fundacion GGG website on nextjs using typescript, sass,... at this [website][fundacionggg].
-- 🔭 I just launched my first big proyect(beta): is a rest api and a react client for an online [TodoList RestApi and PWA][bigProyect] and the
-     code of [the rest api][restapi] and [react-client][react]!
-- I have build an online chat using sockets and javascript and this is the [source code and demo web](https://github.com/chgara/Chat-funcional-server)
 - 🤖 I'm learning machine learning on my own [my repo where I post the pdfs, examples...][ML]
 - 🌱 I’m currently learning algorithms and datastructures, the [repo][datastructures] 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects and learn more
 - ⚡ Fun fact: I love to play ukelele and read
 
-### Connect with me:
+---
 
-[<img align="left" alt="github.com/chgara" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />][githubuser]
-[<img align="left" alt="chema_garabito | Twitter" width="30px" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" />][twitter]
-[<img align="left" alt="chema_garabito | Twitter" width="30px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />][linkedin]
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#76](https://github.com/fharookshaik/fibonacci-series/pull/76) in [fharookshaik/fibonacci-series](https://github.com/fharookshaik/fibonacci-series)
+2. ❗️ Closed issue [#26227](https://github.com/vercel/next.js/issues/26227) in [vercel/next.js](https://github.com/vercel/next.js)
+3. 🗣 Commented on [#26227](https://github.com/vercel/next.js/issues/26227) in [vercel/next.js](https://github.com/vercel/next.js)
+4. 🗣 Commented on [#26227](https://github.com/vercel/next.js/issues/26227) in [vercel/next.js](https://github.com/vercel/next.js)
+<!--END_SECTION:activity-->
 
-<br />
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chgara&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Chgara's Github Stats">
+</details>
 
 ### Languages/Skills:
 
@@ -66,28 +76,100 @@
 <br />
 <br />
 
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#76](https://github.com/fharookshaik/fibonacci-series/pull/76) in [fharookshaik/fibonacci-series](https://github.com/fharookshaik/fibonacci-series)
-2. ❗️ Closed issue [#26227](https://github.com/vercel/next.js/issues/26227) in [vercel/next.js](https://github.com/vercel/next.js)
-3. 🗣 Commented on [#26227](https://github.com/vercel/next.js/issues/26227) in [vercel/next.js](https://github.com/vercel/next.js)
-4. 🗣 Commented on [#26227](https://github.com/vercel/next.js/issues/26227) in [vercel/next.js](https://github.com/vercel/next.js)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chgara&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Chgara's Github Stats">
-</details>
 
 
 
-<!--[website]: https://codeSTACKr.com-->
+
+
+## Expertise
+
+- Create Webapps
+  -  We have created the tools that will help you in your next project. From plugins to complex kits, we've got you covered in all areas regarding front-end development.
+- Share Freebies
+  -  Everything that we used to create our products can be downloaded for free under MIT License. People have already trusted and used them in thousands of sites.
+- Power Hackathons
+  -  We've sponsored many hackathons around the world with the tools that they need to make awesome web applications. Our UI tools go hand in hand with startups.
+
+## Our technologies
+
+Our products are built on top of modern frameworks. Having the coded and the designed versions for the same framework, your designers and developers will talk the same language.
+
+<p>
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/vue.jpg" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/angular.jpg" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/react.jpg" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/bootstrap.jpg" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sass.jpg" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/ps.jpg" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sketch.jpg" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/figma.jpg" width="67.5px" />
+  <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/icon-laravel.jpg" width="67.5px" />
+</p>
+
+## My projects
+
+  InstaClone   |    TODO webapp    |     TODO REST Api    | Online Global Chat
+-------------- | ----------------- | -------------------- | ---------------------
+📖 [Repo](https://github.com/chgara/instaClone) | 📖 [Repo](https://github.com/chgara/chgara-TODO-Client) | 📖 [Repo](https://github.com/chgara/chgara-TODO-RestApi) | 📖 [Repo](https://github.com/chgara/Chat-funcional-server)
+❌ [Live Demo](https://github.com/chgara/instaClone) | ✅ [Live Demo](https://chgara-todo-client.vercel.app/) | ✅ [Live Demo](https://chgara-todolist-server.herokuapp.com/api) | ✅ [Live Demo](https://try-chat.herokuapp.com/)
+![InstaClone](https://camo.githubusercontent.com/1de475cb5c49f0c8371fd6d768ba7fdb6c999fa2c818b88770c27068f00f7299/68747470733a2f2f692e6962622e636f2f475473776d66682f70686f6e652e706e67) | ![TODO webapp](https://camo.githubusercontent.com/f641cbf2ce655f3642de92406b3ba05352a5a88074a0dd9e7fb9ba83af1f3af7/68747470733a2f2f692e6962622e636f2f547133627471462f746f646f2e706e67) | ![TODO REST Api](https://camo.githubusercontent.com/f641cbf2ce655f3642de92406b3ba05352a5a88074a0dd9e7fb9ba83af1f3af7/68747470733a2f2f692e6962622e636f2f547133627471462f746f646f2e706e67)| ![Online Global Chat](https://camo.githubusercontent.com/415c2d8c6c823cca43c6cb0db4c04fa5ebe0fb8d0ee9ac1043c928dfd7f11f43/68747470733a2f2f692e6962622e636f2f71644c437646772f677265656e2d436861742e706e67)
+
+[View All Proyects](https://github.com/chgara?tab=repositories)
+
+## Our courses
+
+**Text courses:**
+
+- [How to quickstart and launch your website using Jekyll?](https://www.creative-tim.com/blog/webdesign/quickstart-launch-website-using-jekyll)
+- [How to create Scrolling Transformations for your React App?](https://www.creative-tim.com/blog/webdesign/create-scrolling-transformations-react-app)
+- [How to create a single-page application using React?](https://www.creative-tim.com/blog/react/create-single-page-application-using-react)
+
+**Video courses:**
+
+|[![How to use React with Firebase and Redux: Introduction](https://img.youtube.com/vi/BMPHfnAA9iI/mqdefault.jpg)](https://www.creative-tim.com/courses "How to use React with Firebase and Redux: Introduction")|[![ReactJS and Redux Tutorial with real-life examples](https://img.youtube.com/vi/raKV5Rb8oOM/mqdefault.jpg)](https://www.creative-tim.com/courses "ReactJS and Redux Tutorial with real-life examples")|[![Responsive Admin Template using Light Bootstrap Dashboard](https://img.youtube.com/vi/vt5hemH8I9w/mqdefault.jpg)](https://www.creative-tim.com/courses "Responsive Admin Template using Light Bootstrap Dashboard")
+|:--:|:--:|:--:|
+|How to use React with Firebase and Redux: Introduction|ReactJS and Redux Tutorial with real-life examples|Responsive Admin Template using Light Bootstrap Dashboard|
+
+<!---
+when having blogs
+## Our latest posts
+
+1. **[🔥 Creative Tim Courses](https://www.creative-tim.com/blog/creative-tim/new-learning-resources-web-designers/)** <br> *New Learning Platform for Web Designers & Devs*
+2. **[😎 Git Tutorial](https://www.creative-tim.com/blog/educational-tech/git-tutorial-fix-common-mistakes/)** <br> *How to Fix 18 Common Mistakes*
+3. **[🙏 Docker and Django](https://www.creative-tim.com/blog/django-template/docker-and-django-how-to-start-fast/)** <br> *How to start fast*
+4. **[⭐️ Technology](https://www.creative-tim.com/blog/ux/importance-user-experience-expert/)** <br> *The Importance of a User Experience Expert in Every Company*
+5. **[💣 Shopify Templates](https://www.creative-tim.com/blog/shopify-themes/best-ecommerce-shopify-templates/)** <br> *10+ Best E-commerce Shopify Templates*
+</p>
+-->
+
+
+## Useful Links
+
+- [Premium Products](https://www.creative-tim.com/templates/premium)
+- [Freebies](https://www.creative-tim.com/templates/free) from Creative Tim
+- [More products](https://www.creative-tim.com/templates) from Creative Tim
+- [Bundles](https://www.creative-tim.com/bundles)
+- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
+- [Material Design](https://www.creative-tim.com/design-system/material)
+- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
+- [Get Discount](https://www.creative-tim.com/coupon)
+
+## Contact with me
+
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />][githubuser] [<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] [<img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
+
+<p align="center"> © 2021 Chgara, all rights reserved. Made with ❤️ for a better web. </p>
+<!---
+when have a web page
+<p align="center">
+https://www.creative-tim.com
+</p>
+-->
+
+ 
+ 
+ <!--[website]: https://codeSTACKr.com-->
+[mail]: emailto:chemasanchezgarabito@gmail.com
 [bigProyect]: https://chgara-todo-client.vercel.app
 [twitter]: https://twitter.com/chema_garabito
 [linkedin]: https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADa-s%C3%A1nchez-garabito-b13593219/
