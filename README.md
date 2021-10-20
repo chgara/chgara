@@ -85,7 +85,7 @@ I'm a self taught developer interested in many areas of the Cs like IA, Web, Mob
 ❌ [Live Demo](https://github.com/chgara/instaClone) | ✅ [Live Demo](https://chgara-todo-client.vercel.app/) | ✅ [Live Demo](https://chgara-todolist-server.herokuapp.com/api) | ✅ [Live Demo](https://try-chat.herokuapp.com/)
 ![InstaClone](https://camo.githubusercontent.com/1de475cb5c49f0c8371fd6d768ba7fdb6c999fa2c818b88770c27068f00f7299/68747470733a2f2f692e6962622e636f2f475473776d66682f70686f6e652e706e67) | ![TODO webapp](https://camo.githubusercontent.com/f641cbf2ce655f3642de92406b3ba05352a5a88074a0dd9e7fb9ba83af1f3af7/68747470733a2f2f692e6962622e636f2f547133627471462f746f646f2e706e67) | ![TODO REST Api](https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2019/08/12/restAPI-2-1176x630.jpg)| ![Online Global Chat](https://camo.githubusercontent.com/415c2d8c6c823cca43c6cb0db4c04fa5ebe0fb8d0ee9ac1043c928dfd7f11f43/68747470733a2f2f692e6962622e636f2f71644c437646772f677265656e2d436861742e706e67)
 
-[View All Proyects](https://github.com/chgara?tab=repositories)
+[View All Proyects](https://github.com/chgara?tab=repositories&q=conta&type=&language=&sort=)
 
 <br />
 
