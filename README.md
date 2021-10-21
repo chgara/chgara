@@ -1,6 +1,8 @@
 ### Hi there, I'm Chgara - a young full stack developer 👋
 
-[![Header](https://i.ibb.co/C0TtX4S/IMG-20201113-233032-tigr-1.jpg "Header")]
+<p align="center">
+  <img src="https://i.ibb.co/C0TtX4S/IMG-20201113-233032-tigr-1.jpg">
+</p>
 
 ## About me
 
