@@ -22,10 +22,10 @@ I'm a self taught developer interested in many areas of the Cs like IA, Web, Mob
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/chgara/chgara/pull/1) in [chgara/chgara](https://github.com/chgara/chgara)
-2. ❌ Closed PR [#2](https://github.com/chgara/chgara/pull/2) in [chgara/chgara](https://github.com/chgara/chgara)
-3. 💪 Opened PR [#2](https://github.com/chgara/chgara/pull/2) in [chgara/chgara](https://github.com/chgara/chgara)
-4. 💪 Opened PR [#1](https://github.com/chgara/chgara/pull/1) in [chgara/chgara](https://github.com/chgara/chgara)
+1. ❗️ Opened issue [#4](https://github.com/sohkai/syntastic-local-solhint/issues/4) in [sohkai/syntastic-local-solhint](https://github.com/sohkai/syntastic-local-solhint)
+2. ❌ Closed PR [#1](https://github.com/chgara/chgara/pull/1) in [chgara/chgara](https://github.com/chgara/chgara)
+3. ❌ Closed PR [#2](https://github.com/chgara/chgara/pull/2) in [chgara/chgara](https://github.com/chgara/chgara)
+4. 💪 Opened PR [#2](https://github.com/chgara/chgara/pull/2) in [chgara/chgara](https://github.com/chgara/chgara)
 <!--END_SECTION:activity-->
 
 </details>
