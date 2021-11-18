@@ -51,7 +51,8 @@ I'm a self taught developer interested in many areas of the Cs like IA, Web, Mob
   <img src="https://i.ibb.co/2Sh7z7f/html.png" title="HTML5" width="67.5px" />  
   <img src="https://i.ibb.co/yR16d13/ts.png" title="TypeScript" width="67.5px" />    
   <img src="https://i.ibb.co/44nccJm/expo.png" title="Expo" width="67.5px" />    
-  <img src="https://i.ibb.co/RPFYwDC/cypress.png" title="CypressJS" width="67.5px" />    
+  <img src="https://i.ibb.co/RPFYwDC/cypress.png" title="CypressJS" width="67.5px" />
+  <img src="https://i.ibb.co/0m49HVX/haskell.png" title="Haskell" width="67.5px" />
   <img src="https://i.ibb.co/rH74K6Q/ndoe.png" title="Nodejs" width="67.5px" />    
   <img src="https://i.ibb.co/yfSrDbb/deno.png" title="Deno" width="67.5px" />  
   <img src="https://i.ibb.co/9YFgkc4/mysql.png" title="MYSQL" width="67.5px" />
