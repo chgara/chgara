@@ -6,12 +6,12 @@
 
 ## About me
 
-I'm a self taught developer interested in many areas of the Cs like IA, Web, Mobile... Now I am studyin 1st of Datascience and Artificial Inteligence in th polytechnic university of Madrid. 
+I'm a self taught developer interested in many areas of the Cs like IA, Web, Mobile... Now I am studyin 1st of Datascience and Artificial Inteligence in th polytechnic university of Madrid.
 
-- 📱 I’m currently developing an [Instagram clone][instaClone] 
+- 📱 I’m currently developing an [Instagram clone][instaclone]
 - 🛠️ Actually I am actually building the fundacion GGG website on nextjs using typescript, sass,... at this [website][fundacionggg].
-- 🤖 I'm learning machine learning on my own [my repo where I post the pdfs, examples...][ML]
-- 🌱 I’m currently learning algorithms and datastructures, the [repo][datastructures] 
+- 🤖 I'm learning machine learning on my own [my repo where I post the pdfs, examples...][ml]
+- 🌱 I’m currently learning algorithms and datastructures, the [repo][datastructures]
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects and learn more
 - ⚡ Fun fact: I love to play ukelele and read
@@ -38,6 +38,7 @@ I'm a self taught developer interested in many areas of the Cs like IA, Web, Mob
 ---
 
 ## Technologies that I work with
+
 <p align="center">Modern problems require modern solutions an innovative tecnologies that can scale and be updated easily with the time.</p>
 
 <p align="center">
@@ -57,6 +58,10 @@ I'm a self taught developer interested in many areas of the Cs like IA, Web, Mob
   <img src="https://i.ibb.co/yfSrDbb/deno.png" title="Deno" width="67.5px" />  
   <img src="https://i.ibb.co/9YFgkc4/mysql.png" title="MYSQL" width="67.5px" />
   <img src="https://i.ibb.co/T2FRG7z/python.png" title="Python" width="67.5px" />
+  <img src="/solidity.png" title="solidity" width="67.5px" />
+  <img src="/ethereum.png" title="Ethereum" width="67.5px" />
+  <img src="/java.png" title="Java" width="67.5px" />
+  <img src="/android.png" title="Android" width="67.5px" />
   <img src="https://i.ibb.co/tQqPp9R/linux.png" title="Linux" width="67.5px" />
   <img src="https://i.ibb.co/c2rTJZ5/ci.png" title="CI/CD" width="67.5px" />
   <img src="https://i.ibb.co/QQ2F1tW/git.png" title="Git" width="67.5px" />
@@ -72,21 +77,21 @@ I'm a self taught developer interested in many areas of the Cs like IA, Web, Mob
 ## Expertise
 
 - Create Webs, apps and webapps
-  -  Nodays webapps are not only important for companies like facebook or netflix, a little commerce with a great page, ecommerce... can be distinguished by far. I only use great and innovative technologies that can scale with the time and will remain in the next years.
+  - Nodays webapps are not only important for companies like facebook or netflix, a little commerce with a great page, ecommerce... can be distinguished by far. I only use great and innovative technologies that can scale with the time and will remain in the next years.
 - Share Freebies
-  -  Everything that I used to create the products can be downloaded for free under MIT License. People have already trusted and used them in thousands of sites.
+  - Everything that I used to create the products can be downloaded for free under MIT License. People have already trusted and used them in thousands of sites.
 - Implement powers
-  -  As a Full Stack developer I can create a product from zero, the backend, the frontend, themobile app, using the best technologies in the market.
-  
+  - As a Full Stack developer I can create a product from zero, the backend, the frontend, themobile app, using the best technologies in the market.
+
 <br />
 
 ## My projects
 
-  InstaClone   |    TODO webapp    |     TODO REST Api    | Online Global Chat
--------------- | ----------------- | -------------------- | ---------------------
-📖 [Repo](https://github.com/chgara/instaClone) | 📖 [Repo](https://github.com/chgara/chgara-TODO-Client) | 📖 [Repo](https://github.com/chgara/chgara-TODO-RestApi) | 📖 [Repo](https://github.com/chgara/Chat-funcional-server)
-❌ [Live Demo](https://github.com/chgara/instaClone) | ✅ [Live Demo](https://chgara-todo-client.vercel.app/) | ✅ [Live Demo](https://chgara-todolist-server.herokuapp.com/api) | ✅ [Live Demo](https://try-chat.herokuapp.com/)
-![InstaClone](https://camo.githubusercontent.com/1de475cb5c49f0c8371fd6d768ba7fdb6c999fa2c818b88770c27068f00f7299/68747470733a2f2f692e6962622e636f2f475473776d66682f70686f6e652e706e67) | ![TODO webapp](https://camo.githubusercontent.com/f641cbf2ce655f3642de92406b3ba05352a5a88074a0dd9e7fb9ba83af1f3af7/68747470733a2f2f692e6962622e636f2f547133627471462f746f646f2e706e67) | ![TODO REST Api](https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2019/08/12/restAPI-2-1176x630.jpg)| ![Online Global Chat](https://camo.githubusercontent.com/415c2d8c6c823cca43c6cb0db4c04fa5ebe0fb8d0ee9ac1043c928dfd7f11f43/68747470733a2f2f692e6962622e636f2f71644c437646772f677265656e2d436861742e706e67)
+| InstaClone                                                                                                                                                                              | TODO webapp                                                                                                                                                                            | TODO REST Api                                                                                                                      | Online Global Chat                                                                                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📖 [Repo](https://github.com/chgara/instaClone)                                                                                                                                         | 📖 [Repo](https://github.com/chgara/chgara-TODO-Client)                                                                                                                                | 📖 [Repo](https://github.com/chgara/chgara-TODO-RestApi)                                                                           | 📖 [Repo](https://github.com/chgara/Chat-funcional-server)                                                                                                                                                |
+| ❌ [Live Demo](https://github.com/chgara/instaClone)                                                                                                                                    | ✅ [Live Demo](https://chgara-todo-client.vercel.app/)                                                                                                                                 | ✅ [Live Demo](https://chgara-todolist-server.herokuapp.com/api)                                                                   | ✅ [Live Demo](https://try-chat.herokuapp.com/)                                                                                                                                                           |
+| ![InstaClone](https://camo.githubusercontent.com/1de475cb5c49f0c8371fd6d768ba7fdb6c999fa2c818b88770c27068f00f7299/68747470733a2f2f692e6962622e636f2f475473776d66682f70686f6e652e706e67) | ![TODO webapp](https://camo.githubusercontent.com/f641cbf2ce655f3642de92406b3ba05352a5a88074a0dd9e7fb9ba83af1f3af7/68747470733a2f2f692e6962622e636f2f547133627471462f746f646f2e706e67) | ![TODO REST Api](https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2019/08/12/restAPI-2-1176x630.jpg) | ![Online Global Chat](https://camo.githubusercontent.com/415c2d8c6c823cca43c6cb0db4c04fa5ebe0fb8d0ee9ac1043c928dfd7f11f43/68747470733a2f2f692e6962622e636f2f71644c437646772f677265656e2d436861742e706e67) |
 
 [View All Proyects](https://github.com/chgara?tab=repositories&q=conta&type=&language=&sort=)
 
@@ -104,8 +109,8 @@ I'm a self taught developer interested in many areas of the Cs like IA, Web, Mob
 **Work proyects:**
 
 [![Fundación Godofredo Garabito y Gregorio](https://i.ibb.co/FhMjtsS/fundacionggg-2.jpg)](https://fundacionggg.com/ "React web page")
-<p align="center">A web page that loads as fasts as light, made in React, Typescript, Scss, NextJS...</p>
 
+<p align="center">A web page that loads as fasts as light, made in React, Typescript, Scss, NextJS...</p>
 
 <!---
 when having blogs
@@ -146,17 +151,16 @@ https://www.creative-tim.com
 </p>
 -->
 
- 
- 
  <!--[website]: https://codeSTACKr.com-->
+
 [mail]: emailto:chemasanchezgarabito@gmail.com
-[bigProyect]: https://chgara-todo-client.vercel.app
+[bigproyect]: https://chgara-todo-client.vercel.app
 [twitter]: https://twitter.com/chema_garabito
 [linkedin]: https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADa-s%C3%A1nchez-garabito-b13593219/
-[ML]: https://github.com/chgara/machineLearningLearn
+[ml]: https://github.com/chgara/machineLearningLearn
 [restapi]: https://github.com/chgara/chgara-TODO-RestApi
 [react]: https://github.com/chgara/chgara-TODO-Client
 [githubuser]: https://github.com/chgara
 [fundacionggg]: https://fundacionggg.com
 [datastructures]: https://github.com/chgara/datastructures
-[instaClone]: https://github.com/chgara/instaClone
+[instaclone]: https://github.com/chgara/instaClone
