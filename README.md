@@ -154,7 +154,7 @@ https://www.creative-tim.com
 
  <!--[website]: https://codeSTACKr.com-->
 
-[mail]: emailto:chemasanchezgarabito@gmail.com
+[mail]: https://www.mypublicinbox.com/ChemaGarabito
 [bigproyect]: https://chgara-todo-client.vercel.app
 [twitter]: https://twitter.com/chema_garabito
 [linkedin]: https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADa-s%C3%A1nchez-garabito-b13593219/
