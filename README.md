@@ -98,47 +98,22 @@ I'm a self taught developer interested in many areas of the Cs like IA, Web, Mob
 
 <br />
 
-## My work
+## Latest blog posts
 
-<!---
-**Text courses:**
-- [How to quickstart and launch your website using Jekyll?](https://www.creative-tim.com/blog/webdesign/quickstart-launch-website-using-jekyll)
-- [How to create Scrolling Transformations for your React App?](https://www.creative-tim.com/blog/webdesign/create-scrolling-transformations-react-app)
-- [How to create a single-page application using React?](https://www.creative-tim.com/blog/react/create-single-page-application-using-react)
--->
+| ¿Qué son los smart contracts? | Introducción a smart contracts en Solidity: 1ª parte| 
+| ----------- | ----------- | 
+| 📖 [Link](https://www.elladodelmal.com/2021/12/blockchain-smart-contracts-una-serie.html) | 📖 [Link](https://www.elladodelmal.com/2021/12/blockchain-smartcontrats-primer-smart.html) |
+| ![image](https://blogger.googleusercontent.com/img/a/AVvXsEidxAke-kRl6ntAOR3COnwsyfMwjPU2pn8VtqgYoslAR1gr5-U51mA5nrGF1il0BnwvY095kqpIX98IhyjtdWNfg-uR9fALLsHv4AbxDvs0xUwbUOqGxcE5nQGtwdxmMyuFjdz99BG_rPkG_pPm4n2wbCQKuYbfRdXNzdfiTSYTbWQJGEIIrg=s800)       | ![image](https://blogger.googleusercontent.com/img/a/AVvXsEiYItQYEdSyY76WNW_2IIY5e-6nKa5ELp9vhlwkaHiT3vVKqAadhr1vUB19etnJIiII_yHkBIGLMoGaM0CIusIyUkwS0Jzkl9NF6ECfVfPthcfEU0kM8ofr3WaIqsRvQ2p-Knv-1kj94qhJjOgloKfyPIvdErNdPoGxM2eOQca-sm2F8liY5Q=s800)       |
+
+[View all posts](https://www.linkedin.com/in/chema-garabito/)
+
+## My work
 
 **Work proyects:**
 
 [![Fundación Godofredo Garabito y Gregorio](https://i.ibb.co/FhMjtsS/fundacionggg-2.jpg)](https://fundacionggg.com/ "React web page")
 
 <p align="center">A web page that loads as fasts as light, made in React, Typescript, Scss, NextJS...</p>
-
-<!---
-when having blogs
-## Our latest posts
-
-1. **[🔥 Creative Tim Courses](https://www.creative-tim.com/blog/creative-tim/new-learning-resources-web-designers/)** <br> *New Learning Platform for Web Designers & Devs*
-2. **[😎 Git Tutorial](https://www.creative-tim.com/blog/educational-tech/git-tutorial-fix-common-mistakes/)** <br> *How to Fix 18 Common Mistakes*
-3. **[🙏 Docker and Django](https://www.creative-tim.com/blog/django-template/docker-and-django-how-to-start-fast/)** <br> *How to start fast*
-4. **[⭐️ Technology](https://www.creative-tim.com/blog/ux/importance-user-experience-expert/)** <br> *The Importance of a User Experience Expert in Every Company*
-5. **[💣 Shopify Templates](https://www.creative-tim.com/blog/shopify-themes/best-ecommerce-shopify-templates/)** <br> *10+ Best E-commerce Shopify Templates*
-</p>
--->
-<!---
-when having blogs
-
-## Useful Links
-
-- [Premium Products](https://www.creative-tim.com/templates/premium)
-- [Freebies](https://www.creative-tim.com/templates/free) from Creative Tim
-- [More products](https://www.creative-tim.com/templates) from Creative Tim
-- [Bundles](https://www.creative-tim.com/bundles)
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Material Design](https://www.creative-tim.com/design-system/material)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
-- [Get Discount](https://www.creative-tim.com/coupon)
-
--->
 
 ## Contact with me
 
@@ -165,3 +140,11 @@ https://www.creative-tim.com
 [fundacionggg]: https://fundacionggg.com
 [datastructures]: https://github.com/chgara/datastructures
 [instaclone]: https://github.com/chgara/instaClone
+
+<!-- EXAMPLE TABLE -->
+<!-- | hola        | hola        | hola        | hola        | -->
+<!-- | ----------- | ----------- | ----------- | ----------- | -->
+<!-- | 📖 [Repo]() | 📖 [Repo]() | 📖 [Repo]() | 📖 [Repo]() | -->
+<!-- | ![]()       | ![]()       | ![]()       | ![]()       | -->
+
+<!-- [View all posts](https://www.linkedin.com/in/chema-garabito/) -->
