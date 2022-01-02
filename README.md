@@ -7,14 +7,15 @@
 ## About me
 
 I'm a self taught developer interested in many areas of the Cs like IA, Web, Mobile... Now I am studyin 1st of Datascience and Artificial Inteligence in th polytechnic university of Madrid.
+I work as a FullStack developer at Ideas Locas team in Telefónica
 
-- 📱 I’m currently developing an [Instagram clone][instaclone]
-- 🛠️ Actually I am actually building the fundacion GGG website on nextjs using typescript, sass,... at this [website][fundacionggg].
+- ⚡ I'm currently decentralizing the world
+- 📱 I have developed an [Instagram clone][instaclone]
+- 🛠️ I have provided the Fundación Godofredo Garabito y Gregorio their online services [website][fundacionggg].
 - 🤖 I'm learning machine learning on my own [my repo where I post the pdfs, examples...][ml]
 - 🌱 I’m currently learning algorithms and datastructures, the [repo][datastructures]
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects and learn more
-- ⚡ Fun fact: I love to play ukelele and read
+- 🥅 2022 Goals: Contribute more to Open Source projects and learn more
 
 ---
 
@@ -75,16 +76,20 @@ I'm a self taught developer interested in many areas of the Cs like IA, Web, Mob
 <br />
 <br />
 
+---
+
 ## Expertise
 
 - Create Webs, apps and webapps
   - Nodays webapps are not only important for companies like facebook or netflix, a little commerce with a great page, ecommerce... can be distinguished by far. I only use great and innovative technologies that can scale with the time and will remain in the next years.
-- Share Freebies
-  - Everything that I used to create the products can be downloaded for free under MIT License. People have already trusted and used them in thousands of sites.
+- Blockchain technologies
+  - In todays world Blockchain technologie is extremly important so I develop smart contracts to "decentralize the world"
 - Implement powers
   - As a Full Stack developer I can create a product from zero, the backend, the frontend, themobile app, using the best technologies in the market.
 
 <br />
+
+---
 
 ## My projects
 
@@ -98,6 +103,8 @@ I'm a self taught developer interested in many areas of the Cs like IA, Web, Mob
 
 <br />
 
+---
+
 ## Latest blog posts
 
 | ¿Qué son los smart contracts? | Introducción a smart contracts en Solidity: 1ª parte| 
@@ -107,6 +114,8 @@ I'm a self taught developer interested in many areas of the Cs like IA, Web, Mob
 
 [View all posts](https://www.linkedin.com/in/chema-garabito/)
 
+---
+
 ## My work
 
 **Work proyects:**
@@ -114,6 +123,8 @@ I'm a self taught developer interested in many areas of the Cs like IA, Web, Mob
 [![Fundación Godofredo Garabito y Gregorio](https://i.ibb.co/FhMjtsS/fundacionggg-2.jpg)](https://fundacionggg.com/ "React web page")
 
 <p align="center">A web page that loads as fasts as light, made in React, Typescript, Scss, NextJS...</p>
+
+---
 
 ## Contact with me
 
