@@ -7,7 +7,7 @@
 ## About me
 
 I'm a self taught developer interested in many areas of the Cs like Web3, IA, Web, Mobile...
-I work as a FullStack developer at Ideas Locas team in Telefónica
+I work as a Web3 FullStack developer at Ideas Locas team in Telefónica
 
 - ⚡ I'm currently decentralizing the world
 - 🏢 I have developed an [Web3 nft marketplace][nftmarket]
