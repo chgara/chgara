@@ -1,5 +1,3 @@
-- 🌱 I’m currently learning algorithms and datastructures, the [repo][datastructures]
-
 ### Hi there, I'm Chgara - a young full stack developer 👋
 
 <p align="center">
