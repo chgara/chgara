@@ -1,3 +1,5 @@
+- 🌱 I’m currently learning algorithms and datastructures, the [repo][datastructures]
+
 ### Hi there, I'm Chgara - a young full stack developer 👋
 
 <p align="center">
@@ -6,14 +8,14 @@
 
 ## About me
 
-I'm a self taught developer interested in many areas of the Cs like IA, Web, Mobile... Now I am studyin 1st of Datascience and Artificial Inteligence in th polytechnic university of Madrid.
+I'm a self taught developer interested in many areas of the Cs like Web3, IA, Web, Mobile...
 I work as a FullStack developer at Ideas Locas team in Telefónica
 
 - ⚡ I'm currently decentralizing the world
+- 🏢 I have developed an [Web3 nft marketplace][nftmarket]
 - 📱 I have developed an [Instagram clone][instaclone]
-- 🛠️ I have provided the Fundación Godofredo Garabito y Gregorio their online services [website][fundacionggg].
+- 🛠️ I have provided the undación Godofredo Garabito y Gregorio their online services [website][fundacionggg].
 - 🤖 I'm learning machine learning on my own [my repo where I post the pdfs, examples...][ml]
-- 🌱 I’m currently learning algorithms and datastructures, the [repo][datastructures]
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects and learn more
 
@@ -107,10 +109,10 @@ I work as a FullStack developer at Ideas Locas team in Telefónica
 
 ## Latest blog posts
 
-| ¿Qué son los smart contracts? | Introducción a smart contracts en Solidity: 1ª parte| 
-| ----------- | ----------- | 
-| 📖 [Link](https://www.elladodelmal.com/2021/12/blockchain-smart-contracts-una-serie.html) | 📖 [Link](https://www.elladodelmal.com/2021/12/blockchain-smartcontrats-primer-smart.html) |
-| ![image](https://blogger.googleusercontent.com/img/a/AVvXsEidxAke-kRl6ntAOR3COnwsyfMwjPU2pn8VtqgYoslAR1gr5-U51mA5nrGF1il0BnwvY095kqpIX98IhyjtdWNfg-uR9fALLsHv4AbxDvs0xUwbUOqGxcE5nQGtwdxmMyuFjdz99BG_rPkG_pPm4n2wbCQKuYbfRdXNzdfiTSYTbWQJGEIIrg=s800)       | ![image](https://blogger.googleusercontent.com/img/a/AVvXsEiYItQYEdSyY76WNW_2IIY5e-6nKa5ELp9vhlwkaHiT3vVKqAadhr1vUB19etnJIiII_yHkBIGLMoGaM0CIusIyUkwS0Jzkl9NF6ECfVfPthcfEU0kM8ofr3WaIqsRvQ2p-Knv-1kj94qhJjOgloKfyPIvdErNdPoGxM2eOQca-sm2F8liY5Q=s800)       |
+| ¿Qué son los smart contracts?                                                                                                                                                                                                                         | Introducción a smart contracts en Solidity: 1ª parte                                                                                                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📖 [Link](https://www.elladodelmal.com/2021/12/blockchain-smart-contracts-una-serie.html)                                                                                                                                                             | 📖 [Link](https://www.elladodelmal.com/2021/12/blockchain-smartcontrats-primer-smart.html)                                                                                                                                                            |
+| ![image](https://blogger.googleusercontent.com/img/a/AVvXsEidxAke-kRl6ntAOR3COnwsyfMwjPU2pn8VtqgYoslAR1gr5-U51mA5nrGF1il0BnwvY095kqpIX98IhyjtdWNfg-uR9fALLsHv4AbxDvs0xUwbUOqGxcE5nQGtwdxmMyuFjdz99BG_rPkG_pPm4n2wbCQKuYbfRdXNzdfiTSYTbWQJGEIIrg=s800) | ![image](https://blogger.googleusercontent.com/img/a/AVvXsEiYItQYEdSyY76WNW_2IIY5e-6nKa5ELp9vhlwkaHiT3vVKqAadhr1vUB19etnJIiII_yHkBIGLMoGaM0CIusIyUkwS0Jzkl9NF6ECfVfPthcfEU0kM8ofr3WaIqsRvQ2p-Knv-1kj94qhJjOgloKfyPIvdErNdPoGxM2eOQca-sm2F8liY5Q=s800) |
 
 [View all posts](https://www.linkedin.com/in/chema-garabito/)
 
@@ -151,6 +153,7 @@ https://www.creative-tim.com
 [fundacionggg]: https://fundacionggg.com
 [datastructures]: https://github.com/chgara/datastructures
 [instaclone]: https://github.com/chgara/instaClone
+[nftmarket]: https://github.com/chgara/MarketplaceNFT
 
 <!-- EXAMPLE TABLE -->
 <!-- | hola        | hola        | hola        | hola        | -->
